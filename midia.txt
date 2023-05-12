@@ -1,0 +1,44 @@
+<div id="autor">
+  <h2>Autor</h2>
+  <p>FECHINE, Yvana</p>
+</div>
+
+<div id="publicacao">
+  <h2>Publicação</h2>
+  <p>Revista Galáxia, São Paulo, n. 22, p. 222-236, dez. 2011.</p>
+</div>
+
+<div id="resumo">
+  <h2>Resumo</h2>
+  <p>Este artigo apresenta uma abordagem sobre a importância do roteiro na produção de narrativas em novas mídias, a partir da perspectiva da teoria da linguagem.</p>
+</div>
+
+<div id="indice">
+  <h2>Índice</h2>
+  <ul>
+    <li>Introdução</li>
+    <li>A teoria da linguagem e o roteiro</li>
+    <li>Elementos do roteiro</li>
+    <li>O roteiro em novas mídias</li>
+    <li>Conclusão</li>
+  </ul>
+</div>
+
+<div id="introducao">
+  <h2>Introdução</h2>
+  <p>Este artigo tem como objetivo discutir a importância do roteiro na produção de narrativas em novas mídias, a partir da perspectiva da teoria da linguagem. A produção de narrativas em ambientes digitais apresenta novos desafios para a produção de roteiros, e é importante entender como a teoria da linguagem pode ser aplicada para ajudar na construção dessas narrativas.</p>
+</div>
+
+<div id="teoria-linguagem-roteiro">
+  <h2>A teoria da linguagem e o roteiro</h2>
+  <p>Existe uma relação estreita entre a teoria da linguagem e o roteiro na produção de narrativas. A teoria da linguagem nos ajuda a entender como as palavras e frases são organizadas para formar sentenças e textos coesos, e essa mesma organização pode ser aplicada na construção de roteiros para produção de narrativas em diferentes mídias.</p>
+</div>
+
+<div id="elementos-roteiro">
+  <h2>Elementos do roteiro</h2>
+  <p>Os principais elementos que compõem um roteiro são: a história, os personagens, a estrutura, a linguagem, a estética e a produção. Cada um desses elementos é fundamental para a construção de uma narrativa coerente e envolvente, e é importante considerar cada um deles na hora de produzir um roteiro para uma nova mídia.</p>
+</div>
+
+<div id="roteiro-novas-midias">
+  <h2>O roteiro em novas mídias</h2>
+  <p>O roteiro para produção de narrativas em ambientes digitais apresenta desafios diferentes da produção de narrativas em outros meios. É preciso levar em conta questões como a interatividade, a hipertextualidade e a multimodalidade na construção de um roteiro para uma nova mídia, e entender como esses
